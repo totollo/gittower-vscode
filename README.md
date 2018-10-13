@@ -1,6 +1,6 @@
 # gittower-vscode-plugin
 
-让gittower支持vscode
+let gittower support vscode as diff && merge tool
 
 ## Installation
 ```bash
